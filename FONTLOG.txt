@@ -1,0 +1,22 @@
+FONTLOG for the Cadence font
+============================
+
+This file provides detailed information on the Cadence Font Software. This information should be distributed along with the Cadence fonts and any derivative works.
+
+
+Basic font information
+----------------------
+Cadence is a typeface designed by Abraham Lee (derivative of Emmentaler, GPL) to express certain features that tend to show up as a result of hand-engraving and printing process, which shows up most notably by rounding all interior corners of the main font elements. Other changes were made per the taste of the designer. This font software is not designed for use in a word-processing application, although all the glyphs may be accessed at their respective Unicode points. It was originally designed for use with LilyPond, the automatic music engraver.
+
+More information about LilyPond can be found at:
+
+http://www.lilypond.org/
+
+Changelog
+---------
+
+30 July 2014 (Abraham Lee) Cadence version 1.0
+- Initial design to be compatible with LilyPond 2.18.2.
+
+30 September 2014 (Abraham Lee) Cadence version 1.0
+- Added WOFF font file support
